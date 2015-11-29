@@ -12,6 +12,5 @@ if($conn->connect_error) {
 	die("Tilkobling til MySQL database ikke vellykket <br/>" . "ERRNO: " . $conn->connect_errno ."<br/> " . $conn->connect_error);
 }
 
-
 echo("Tilkobling vellykket. MySQL AKTIV! Tilkoblet: " .$db);
 ?>
