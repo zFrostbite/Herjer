@@ -3,13 +3,13 @@
 	<head>
 		<meta charset="utf-8">
 		<link href="css/styles.css" rel="stylesheet" type="text/css">
-		<title>abc</title>
+		<title>Herjer MMA</title>
 	</head>
 	<body> 
 	<div id="all">
 		<div id="banner">
 			<a href="#hjem">	
-				<img src="bilder/herjerbanner4.png" alt="Herjer banner" href="#hjem">
+				<img src="bilder/herjerbanner4.png" alt="Herjer banner" href="hjem.php">
 			</a>
 			<ul>
 				<li><a href="hjem.php">HJEM</a></li>
