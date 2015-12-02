@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<<<<<<< HEAD
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1449060660740_0" label="Window Working Set" name="Aggregate for window 1449060660740"/>
+=======
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1448910475537_0" label="Window Working Set" name="Aggregate for window 1448910475537"/>
+>>>>>>> refs/remotes/origin/master
 </workingSetManager>
