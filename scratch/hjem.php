@@ -12,7 +12,7 @@
 				<img src="bilder/herjerbanner4.png" alt="Herjer banner" href="#hjem">
 			</a>
 			<ul>
-				<li><a href="#hjem">HJEM</a></li>
+				<li><a href="hjem.php">HJEM</a></li>
 				<li><a href="#klubben">OM KLUBBEN</a></li>
 				<li><a href="#media">MEDIA</a></li>
 				<li><a href="#time">TIMEPLAN</a></li>
