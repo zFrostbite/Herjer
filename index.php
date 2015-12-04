@@ -1,46 +1,24 @@
-<?php	require_once("hidden/connect_mysql.php");
-		require_once("hidden/functions.php"); 
-error_reporting(0);
-echo "<br/>"; 
- 
-/*if($result = $conn->query("SELECT * FROM brukere")) {
-	if($count = $result->num_rows) {
-		echo '<p>', $count, '</p>';
-
-		
-		<?php 
-			$result = $conn->query("SELECT * FROM brukere");
-			while ($row = mysqli_fetch_object($result)) {
-			echo $row->id, ' ', $row->fornavn, ' ', $row->etternavn, '<br/>';
-		}
-		?>
-
-		} 
-
-	} */
-
-
-?>
-<!doctype HTML>
+<!DOCTYPE html>
 <html>
-	<head> 
+	<head>
+		<meta charset="utf-8">
+		<link href="scratch/css/styles.css" rel="stylesheet" type="text/css">
 		<title>Herjer MMA</title>
 	</head>
-	
-	<body>
-	
-		<h1>Folk herane</h1>
-		<form action="demo.php" method="post" >
-		<p>Input 1: <input type="text" name="input1"/> </p>
-		<input type="submit" value="Submit" />
-		</form>
-		<?php 
-		$query1 = "SELECT * FROM demo";
-		
-		$result = mysqli_query($conn, $query1);
-			while ($row = mysqli_fetch_object($result)) {
-			echo $row->input1, '<br/>';
-		}
-		?>
+	<body> 
+	<div id="all">
+		<div id="banner">
+			<a href="#hjem">	
+				<img src="scratch/bilder/herjerbanner4.png" alt="Herjer banner" href="hjem.php">
+			</a>
+			<ul>
+				<li><a href="nav/hjem.php">HJEM</a></li>
+				<li><a href="nav/klubben.php">OM KLUBBEN</a></li>
+				<li><a href="#media">MEDIA</a></li>
+				<li><a href="nav/timeplan.php">TIMEPLAN</a></li>
+			</ul>
+		</div>
+		<div id="divider" />
+	</div>	
 	</body>
 </html>

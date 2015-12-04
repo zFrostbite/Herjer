@@ -1,0 +1,57 @@
+body {
+	margin:auto;
+	width: 1000px;
+	background-color: black;
+}
+
+div#all {
+
+} 
+/*Banner og Navigation */
+div#banner {
+	background-image: url("../bilder/herjerbannerback.png");
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 1000px;
+	height: 100px;
+}
+
+div#banner img {
+	float: left;
+	width: 252px;
+	height: 100px;
+}
+
+ul#nav {
+	float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul#nav li {
+	float: left;
+}
+
+ul#nav li a{
+    display: inline-block;
+	margin-top: 56px;
+	width: 180px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+	font-family: arial;
+	font-size: 27px;
+}
+
+li a:hover{
+	text-decoration: underline;
+}
+
+div#divider{
+	width: 1000px;
+	height: 3px;
+	background-color: white;
+}
+

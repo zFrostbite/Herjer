@@ -1,0 +1,44 @@
+
+div.fullside {
+	margin-top: 10px;
+	width: 1000px;
+	color: white;
+	text-align: center;
+	font-family: arial;
+}
+
+div.fullside h1 {
+	font-size: 30px;
+}
+
+div.halvside {
+	margin-top: 10px;
+	width: 500px;
+	font-family: arial;
+	font-size: 18px;
+	color: white;
+	float: left;
+}
+
+div.halvside h1 {
+	font-size: 24px;
+	text-align: center;
+	margin: 0;
+}
+
+div.halvside ul {
+	margin-top: 8px;
+}
+
+img#bannerbilde{
+	width: 998px;
+	height: 373px;
+	border: solid 1px;
+}
+
+img#bilde1 {
+	margin-top: 75px;
+	height: 498px;
+	width: 498px;
+	border: solid 1px;
+}

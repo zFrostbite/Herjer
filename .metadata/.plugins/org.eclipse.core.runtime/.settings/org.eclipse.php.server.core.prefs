@@ -1,0 +1,7 @@
+defaultPHPServer=Default PHP Web Server
+eclipse.preferences.version=1
+<<<<<<< HEAD
+phpServers=<server><id>php-server-a99043ee-cead-441a-9948-161bd198cfc9</id><name>Default PHP Web Server</name><hostname>localhost</hostname><base_url>http\://localhost</base_url><debuggerId>org.eclipse.php.debug.core.noneDebugger</debuggerId><document_root></document_root></server>
+=======
+phpServers=<server><id>php-server-50e55204-fa2a-4ba4-9aba-24ad2f38e6f7</id><name>Default PHP Web Server</name><hostname>localhost</hostname><base_url>http\://localhost</base_url><debuggerId>org.eclipse.php.debug.core.noneDebugger</debuggerId><document_root></document_root></server>
+>>>>>>> refs/remotes/origin/master
