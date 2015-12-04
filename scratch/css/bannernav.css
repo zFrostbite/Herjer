@@ -7,11 +7,11 @@ body {
 div#all {
 
 } 
-/*Banner og Navigation */
+/* Banner og Navigation */
 div#banner {
 	background-image: url("../bilder/herjerbannerback.png");
 	margin-top: 10px;
-	margin-bottom: 10px;
+	
 	width: 1000px;
 	height: 100px;
 }
@@ -38,14 +38,14 @@ ul#nav li a{
     display: inline-block;
 	margin-top: 56px;
 	width: 180px;
-    color: white;
+    color: #C9C9C9;
     text-align: center;
     text-decoration: none;
 	font-family: arial;
 	font-size: 27px;
 }
 
-li a:hover{
+ul#nav li a:hover{
 	text-decoration: underline;
 }
 
@@ -53,5 +53,6 @@ div#divider{
 	width: 1000px;
 	height: 3px;
 	background-color: white;
+	margin-top: 10px;
 }
 
