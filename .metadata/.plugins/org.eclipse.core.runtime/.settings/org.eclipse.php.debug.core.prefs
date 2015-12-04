@@ -1,4 +1,8 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=refs/remotes/origin/master
 eclipse.preferences.version=1
+<<<<<<< HEAD
 <<<<<<< HEAD
 org.eclipse.php.debug.core.xdebugDebuggerSettingsProvider=<settings><clientPort>9000</clientPort><ownerId>php-server-a99043ee-cead-441a-9948-161bd198cfc9</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress><proxyEnable>false</proxyEnable></settings>\u0005<settings><clientPort>9000</clientPort><ownerId>php-server-8d648341-3dbc-409d-98a4-b317de3bb1de</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress><proxyEnable>false</proxyEnable></settings>
 org.eclipse.php.debug.core.zendDebuggerSettingsProvider=<settings><clientPort>10137</clientPort><ownerId>php-server-a99043ee-cead-441a-9948-161bd198cfc9</ownerId><clientIp>192.168.10.102,127.0.0.1</clientIp><responseTimeout>60000</responseTimeout></settings>\u0005<settings><clientPort>10137</clientPort><ownerId>php-server-8d648341-3dbc-409d-98a4-b317de3bb1de</ownerId><clientIp>192.168.10.102,127.0.0.1</clientIp><responseTimeout>60000</responseTimeout></settings>
@@ -6,3 +10,7 @@ org.eclipse.php.debug.core.zendDebuggerSettingsProvider=<settings><clientPort>10
 org.eclipse.php.debug.core.xdebugDebuggerSettingsProvider=<settings><clientPort>9000</clientPort><ownerId>php-server-793830f4-7979-497b-998a-7f8064118230</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress><proxyEnable>false</proxyEnable></settings>\u0005<settings><clientPort>9000</clientPort><ownerId>php-server-50e55204-fa2a-4ba4-9aba-24ad2f38e6f7</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress><proxyEnable>false</proxyEnable></settings>
 org.eclipse.php.debug.core.zendDebuggerSettingsProvider=<settings><clientPort>10137</clientPort><ownerId>php-server-793830f4-7979-497b-998a-7f8064118230</ownerId><clientIp>192.168.10.102,127.0.0.1</clientIp><responseTimeout>60000</responseTimeout></settings>\u0005<settings><clientPort>10137</clientPort><ownerId>php-server-50e55204-fa2a-4ba4-9aba-24ad2f38e6f7</ownerId><clientIp>192.168.10.102,127.0.0.1</clientIp><responseTimeout>60000</responseTimeout></settings>
 >>>>>>> refs/remotes/origin/master
+=======
+org.eclipse.php.debug.core.xdebugDebuggerSettingsProvider=<settings><clientPort>9000</clientPort><ownerId>php-server-50e55204-fa2a-4ba4-9aba-24ad2f38e6f7</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress><proxyEnable>false</proxyEnable></settings>
+org.eclipse.php.debug.core.zendDebuggerSettingsProvider=<settings><clientPort>10137</clientPort><ownerId>php-server-50e55204-fa2a-4ba4-9aba-24ad2f38e6f7</ownerId><clientIp>192.168.10.102,127.0.0.1</clientIp><responseTimeout>60000</responseTimeout></settings>
+>>>>>>> master
