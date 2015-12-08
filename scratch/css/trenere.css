@@ -1,4 +1,4 @@
-ul#nav li a#hjem {
+ul#nav li a#trenere {
 	color: white;
 }
 
@@ -10,14 +10,8 @@ div.fullside {
 	font-family: arial;
 }
 
-img#bannerbilde{
-	margin-top: 10px;
-	width: 998px;
-	height: 373px;
-	border: solid 1px;
-}
-
 div.fullside h1 {
+	margin: 15px;
 	font-size: 30px;
 	text-align: center;
 }
@@ -27,22 +21,27 @@ div.fullside h2 {
 	margin: 0;
 }
 
-div.fullside strong {
-	font-size: 20px;
+div.fullside h2.right {
+	text-align: right;
 }
 
-div.fullside a {
-	text-decoration: underline;
-	font-style: italic;
-	font-weight: bold;
-	color: white;
-}
-
-img#bilde1 {
-	margin-top: 75px;
-	margin-bottom:0px;
+div.fullside img{
 	height: 498px;
 	width: 498px;
+	margin-top: 50px;
 	border: solid 1px;
 	float: right;
+}
+
+div.fullside img.left {
+	float: left;
+}
+
+div.fullside p.right {
+	padding-left: 10px;
+	float: left;
+}
+
+div.fullside p {
+	width: 490px;
 }
