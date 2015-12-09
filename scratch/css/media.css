@@ -3,7 +3,19 @@ ul#nav li a#media {
 }
 
 div#thumbnails {
-	height: 200px;
-	background-color:red;
+	height: 100px;
 	margin-top: 20px;
+}
+
+div#center {
+	margin: auto;
+	background-color: blue;
+}
+
+div.img {
+	height: 89px;
+	width: 89px;
+	border: solid white 1px;
+	float: left;
+	margin: 10px;
 }
