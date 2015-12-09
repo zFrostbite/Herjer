@@ -37,6 +37,14 @@ div.fullside img.left {
 	float: left;
 }
 
+div.fullside img#kasim {
+	margin-top: 20px;
+}
+
+div.fullside p#kasim {
+	margin-top: 100px;
+}
+
 div.fullside p.right {
 	padding-left: 10px;
 	float: left;
@@ -44,4 +52,25 @@ div.fullside p.right {
 
 div.fullside p {
 	width: 490px;
+}
+
+div#gk {
+	height: 700px;
+}
+
+div#vegard {
+	height: 600px;
+}
+
+div#kasim {
+	height: 600px;
+}
+
+div#kristian {
+	margin-top: 60px;
+	height: 600px;
+}
+
+div#kristian p#kristian {
+	margin-top: 85px;
 }

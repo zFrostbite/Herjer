@@ -1,0 +1,9 @@
+ul#nav li a#media {
+	color: white;
+}
+
+div#thumbnails {
+	height: 200px;
+	background-color:red;
+	margin-top: 20px;
+}
