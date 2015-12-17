@@ -1,0 +1,48 @@
+ul#nav li a#hjem {
+	color: white;
+}
+
+div.fullside {
+	margin-top: 10px;
+	width: 1000px;
+	color: white;
+	font-size: 18px;
+	font-family: arial;
+}
+
+img#bannerbilde{
+	margin-top: 10px;
+	width: 998px;
+	height: 373px;
+	border: solid 1px;
+}
+
+div.fullside h1 {
+	font-size: 30px;
+	text-align: center;
+}
+
+div.fullside h2 {
+	font-size: 24px;
+	margin: 0;
+}
+
+div.fullside strong {
+	font-size: 20px;
+}
+
+div.fullside a {
+	text-decoration: underline;
+	font-style: italic;
+	font-weight: bold;
+	color: white;
+}
+
+img#bilde1 {
+	margin-top: 75px;
+	margin-bottom:0px;
+	height: 498px;
+	width: 498px;
+	border: solid 1px;
+	float: right;
+}

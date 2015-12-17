@@ -1,0 +1,49 @@
+ul#nav li a#media {
+	color: white;
+}
+
+div#thumbnails {
+	height: 100px;
+	width: 444px;
+	margin-left: 278px;
+	margin-right: 278px;
+	margin-top: 20px;
+}
+
+
+
+div.img {
+	height: 89px;
+	width: 89px;
+	border: solid white 1px;
+	float: left;
+	margin: 10px;
+}
+
+div.img img#img1{
+	margin-left: 11px;
+	margin-right: 12px;
+	width: 66px; 
+	height: 89px;
+}
+
+div.img img#img2{
+	margin-top: 19px;
+	margin-bottom: 19px;
+	width: 89px;
+	height: 51px;
+}
+
+div.img img.img34{
+	margin-top: 14px;
+	margin-bottom: 15px;
+	width: 89px; 
+	height: 58px;
+}
+
+iframe{
+	width: 1000px;
+	height: 750px;
+	overflow: hidden;
+	border:none;
+}

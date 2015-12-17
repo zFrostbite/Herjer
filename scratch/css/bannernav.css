@@ -1,20 +1,17 @@
 body {
 	margin:auto;
 	width: 1000px;
-	/* background-color: #333333; */
 	background-color: black;
 }
-/*
+
 div#all {
-	width: 100%;
-	height: 100%;
-	background-color: black;
-} */
-/*Banner og Navigation */
+
+} 
+/* Banner og Navigation */
 div#banner {
 	background-image: url("../bilder/herjerbannerback.png");
 	margin-top: 10px;
-	margin-bottom: 10px;
+	
 	width: 1000px;
 	height: 100px;
 }
@@ -25,7 +22,7 @@ div#banner img {
 	height: 100px;
 }
 
-ul {
+ul#nav {
 	float: left;
     list-style-type: none;
     margin: 0;
@@ -33,27 +30,40 @@ ul {
     overflow: hidden;
 }
 
-li {
+ul#nav li {
 	float: left;
 }
 
-li a{
+ul#nav li a{
     display: inline-block;
 	margin-top: 56px;
 	width: 180px;
-    color: white;
+    color: #C9C9C9;
     text-align: center;
     text-decoration: none;
 	font-family: arial;
 	font-size: 27px;
 }
 
-li a:hover{
+ul#nav li a:hover{
 	text-decoration: underline;
 }
 
-div#divider{
+div.divider{
 	width: 1000px;
 	height: 3px;
 	background-color: white;
+	margin-top: 10px;
+	float: left;
 }
+
+div#footer {
+	margin-top:10px;
+	text-align: center;
+	color: grey;
+}
+
+div#footer a {
+	color: grey;
+}
+

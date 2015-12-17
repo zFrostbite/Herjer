@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+GitRepositoriesView.GitDirectories=\\\\Server-pc\\c\\WEB\\htdocs\\Web\\.git;
+=======
 GitRepositoriesView.GitDirectories=\\\\Server-pc\\c\\WEB\\htdocs\\Web\\Herjer\\.git;
+>>>>>>> master
 RepositorySearchDialogSearchPath=\\\\Server-pc\\c\\WEB\\htdocs\\Web
 eclipse.preferences.version=1

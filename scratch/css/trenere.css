@@ -1,0 +1,76 @@
+ul#nav li a#trenere {
+	color: white;
+}
+
+div.fullside {
+	margin-top: 10px;
+	width: 1000px;
+	color: white;
+	font-size: 18px;
+	font-family: arial;
+}
+
+div.fullside h1 {
+	margin: 15px;
+	font-size: 30px;
+	text-align: center;
+}
+
+div.fullside h2 {
+	font-size: 24px;
+	margin: 0;
+}
+
+div.fullside h2.right {
+	text-align: right;
+}
+
+div.fullside img{
+	height: 498px;
+	width: 498px;
+	margin-top: 50px;
+	border: solid 1px;
+	float: right;
+}
+
+div.fullside img.left {
+	float: left;
+}
+
+div.fullside img#kasim {
+	margin-top: 20px;
+}
+
+div.fullside p#kasim {
+	margin-top: 100px;
+}
+
+div.fullside p.right {
+	padding-left: 10px;
+	float: left;
+}
+
+div.fullside p {
+	width: 490px;
+}
+
+div#gk {
+	height: 700px;
+}
+
+div#vegard {
+	height: 600px;
+}
+
+div#kasim {
+	height: 600px;
+}
+
+div#kristian {
+	margin-top: 60px;
+	height: 600px;
+}
+
+div#kristian p#kristian {
+	margin-top: 85px;
+}
